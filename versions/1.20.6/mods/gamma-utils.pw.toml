@@ -1,0 +1,13 @@
+filename = 'Gamma-Utils-1.8.20-mc1.20.5.jar'
+name = 'Gamma Utils (Fullbright)'
+side = 'client'
+
+[download]
+hash = 'c4cfb41c8f25c9dd7382b4788cc333c29c277b2cf8245c99b6e8c0bdb21d26f822ce782fcc3d63a394106e9e0e0b4481e582af1cd6612b2e85736d2173421fde'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wdLuzzEP/versions/IT4jDwCA/Gamma-Utils-1.8.20-mc1.20.5.jar'
+
+[update.modrinth]
+mod-id = 'wdLuzzEP'
+version = 'IT4jDwCA'

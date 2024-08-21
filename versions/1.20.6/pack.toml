@@ -1,0 +1,13 @@
+name = "nathm's utils"
+author = "nathm"
+version = "0.9.4-beta"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e7fa53bf831a52e4c513c0cf6041956fe327171cc03c1415aeecafdb4d233bd0"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.6"

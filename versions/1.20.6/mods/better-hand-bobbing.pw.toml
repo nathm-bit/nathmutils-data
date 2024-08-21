@@ -1,0 +1,13 @@
+filename = 'betterhandbobbing-1.6.6.jar'
+name = 'BetterHandBobbing'
+side = 'client'
+
+[download]
+hash = '05ed2b7b30a2252e99bd3ae545b26ad03dddf355ccfc8a99340a2bb2d04286b6f8b8ef869f7243d30f67aedde1c8f4e14263e91b127f8d3694402d920530a15f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2FJYrSBD/versions/Fe5Vzfex/betterhandbobbing-1.6.6.jar'
+
+[update.modrinth]
+mod-id = '2FJYrSBD'
+version = 'Fe5Vzfex'

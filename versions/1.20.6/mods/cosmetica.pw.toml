@@ -1,0 +1,13 @@
+filename = 'cosmetica-1.20.6-1.2.9.jar'
+name = 'Cosmetica'
+side = 'client'
+
+[download]
+hash = '01e5878c74e68d335d56bb526fea4b724b0fb11635b7455264301251f861b3badcca791fbadf6a9d0e38b92d0a33bc65305be53c5692aeae9810a7b10e010433'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s9hF9QGp/versions/vxGSvbPX/cosmetica-1.20.6-1.2.9.jar'
+
+[update.modrinth]
+mod-id = 's9hF9QGp'
+version = 'vxGSvbPX'

@@ -1,0 +1,13 @@
+filename = 'XaerosWorldMap_1.38.8_Fabric_1.20.6.jar'
+name = "Xaero's World Map"
+side = 'client'
+
+[download]
+hash = '57816a5d709b4a7626cb18c789e58954905714182e3f746997e5acda179ebf69de47a56ad30c98bace9405aebda7dba4ce1ad07665a7f46cdf310559ce4c58ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NcUtCpym/versions/o7mEAkNb/XaerosWorldMap_1.38.8_Fabric_1.20.6.jar'
+
+[update.modrinth]
+mod-id = 'NcUtCpym'
+version = 'o7mEAkNb'
